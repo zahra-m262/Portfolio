@@ -1,0 +1,12 @@
+export { default as Way } from "./way.jpg";
+export { default as HtmlCss } from "./Html-css.jpg";
+export { default as CssGrid } from "./CSS_Grid.jpg";
+export { default as FlexBox } from "./FlexBox.jpg";
+export { default as MediaQuery } from "./mediaQuery.jpg";
+export { default as Sass } from "./Sass.jpg";
+export { default as Bem } from "./BEM.jpg";
+export { default as Bootstrap } from "./Bootstrap.jpg";
+export { default as Pro1 } from "./Project.jpg";
+export { default as Js } from "./JS.jpg";
+export { default as Js2 } from "./JS2.jpg";
+export { default as React } from "./ReactJs.jpg";
